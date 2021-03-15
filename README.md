@@ -6,13 +6,13 @@ This module provisions Cloudflare dns records.
 | Name | Version |
 |------|---------|
 | terraform | >= 0.14 |
-| cloudflare | 2.19.2 |
+| cloudflare | >= 2.19 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| cloudflare | 2.19.2 |
+| cloudflare | >= 2.19 |
 
 ## Modules
 
