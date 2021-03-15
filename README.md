@@ -5,13 +5,14 @@ This module provisions Cloudflare dns records.
 
 | Name | Version |
 |------|---------|
-| terraform | >= 0.13 |
+| terraform | >= 0.14 |
+| cloudflare | 2.19.2 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| cloudflare | n/a |
+| cloudflare | 2.19.2 |
 
 ## Modules
 
@@ -21,7 +22,7 @@ No Modules.
 
 | Name |
 |------|
-| [cloudflare_record](https://registry.terraform.io/providers/terraform-providers/cloudflare/latest/docs/resources/record) |
+| [cloudflare_record](https://registry.terraform.io/providers/cloudflare/cloudflare/2.19.2/docs/resources/record) |
 
 ## Inputs
 
